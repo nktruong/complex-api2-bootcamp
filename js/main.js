@@ -4,7 +4,7 @@ function findDayInfo(){
     // get location (zip, city, etc.) and then input into Weather API parameter
     let location = document.querySelector('input').value
 
-    const url = `http://api.weatherapi.com/v1/current.json?key=0cc54de2b0e14a0ca06154843213009&q=${location}&aqi=yes`
+    const url = `https://api.weatherapi.com/v1/current.json?key=0cc54de2b0e14a0ca06154843213009&q=${location}&aqi=yes`
     // make a fetch request to the Weather API
     fetch(url)
         .then(res => res.text())

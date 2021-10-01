@@ -1,16 +1,14 @@
 # 📊 Project: Complex API 2
 
-## Location Information
-With this simple website, find out the latitude and longitude of where you live, or when the sun rises, or even the SOLAR NOON.  
-
-**Link to site:** https://findsunset-nktruong.netlify.app/
+## Advice Sharing
+With this simple website, you can share any piece of random advice to anyone who scans the provided QR code.
 
 ## APIs used
-Weather API: https://www.weatherapi.com/
-Sunrise and sunset times API: https://sunrise-sunset.org/
+Advice Slip API: https://api.adviceslip.com/
+Image-Charts API: https://documentation.image-charts.com/
 
 ## A Picture of the Simple Website:
-![An image that shows the zip code 10000, the location New York, the weather, and info of the current day.](https://user-images.githubusercontent.com/88857875/135512930-08af624c-299d-4117-a067-9d38cc3e2998.png)
+![Advice: A long walk alone with some time to think, can work wonders. and a QR Code](https://user-images.githubusercontent.com/88857875/135666193-2e0e5720-2fa2-4bef-afb9-314bafc22b82.png)
 
 ## How It's Made:
 

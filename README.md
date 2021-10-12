@@ -13,4 +13,8 @@ With this simple website, you can share any piece of random advice to anyone who
 
 ## How It's Made:
 
-**Tech used:** HTML, JavaScript
+**Tech used:** HTML5, JavaScript ES6+
+
+## Lessons Learned:
+
+I learned how to create a complex API using Fetch that used advice data and sent the text over to an API that generates QR codes. In the same fetch request for the first API, in the .then promise I made another fetch request using that data. For both APIs, I looked into the objects to find out where the data was located. 
